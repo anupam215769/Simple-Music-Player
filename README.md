@@ -1,7 +1,7 @@
 # Simple Music Player
 
 <p align="center">
-A Simple Music Player
+A Simple Music Player Using JavaScript
 </p>
 
 <p align="center">
