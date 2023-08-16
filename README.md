@@ -25,14 +25,4 @@ A Simple Music Player Using JavaScript
 
 ### [Simple Music Player](https://anupam215769.github.io/Simple-Music-Player/)
 
-## Credit
 
-**Designed & Scripted By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Simple-Music-Player/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Simple-Music-Player" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
